@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">complaint-app-beta</string>
+    <string name="title_activity_main">complaint-app-beta</string>
+    <string name="package_name">com.bkittiphm.complaintapp</string>
+    <string name="custom_url_scheme">com.bkittiphm.complaintapp</string>
+</resources>
